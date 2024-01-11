@@ -1,6 +1,6 @@
 # Movie-seat-Booking
 
-div align='center'>
+<div align='center'>
 <img src="SCREENSHOT12.png">
 </div>
 <br>
